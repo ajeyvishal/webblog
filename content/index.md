@@ -1,46 +1,57 @@
-# Tolkien Fan Club
+# AJ's Fortress of Solitude
+
+Ich höre gerne Taylor Swift und lese unglaublich viele Bücher.
+
+Dieser Blog ist ein kleines Archiv der Dinge, an die ich mich erinnern möchte: Bücher, die mich begeistert haben, Lieder, zu denen ich immer wieder zurückkehre, Fotos, die ich gemacht habe, und alltägliche Momente, die sich irgendwie besonders angefühlt haben.
 
 ![JRR Tolkien sitting](/images/tolkien.png)
 
-Here's the deal, **I like Tolkien**.
-
-> "I am in fact a Hobbit in all but size."
+> "Hold on to the memories, they will hold on to you."
 >
-> -- J.R.R. Tolkien
+> -- Taylor Swift
 
-## Blog posts
+## Mein Erinnerungsarchiv
 
+- [2026](/blog/2026)
 - [Why Glorfindel is More Impressive than Legolas](/blog/glorfindel)
 - [Why Tom Bombadil Was a Mistake](/blog/tom)
 - [The Unparalleled Majesty of "The Lord of the Rings"](/blog/majesty)
 
-## Reasons I like Tolkien
+## Dinge, die sich nach mir anfühlen
 
-- You can spend years studying the legendarium and still not understand its depths
-- It can be enjoyed by children and adults alike
-- Disney _didn't ruin it_ (okay, but Amazon might have)
-- It created an entirely new genre of fantasy
+- Lieder mit einer besonderen Geschichte
+- Bücher, in denen ich völlig versinke
+- Den Sonnenuntergang über einem weiten Horizont beobachten
+- Zugfahrten mit einem fesselnden Buch
+- Fremde Menschen anlächeln
+- Stundenlang Fahrrad fahren
 
-## My favorite characters (in order)
+## Meine aktuelle Taylor-Swift-Konstellation (in Reihenfolge)
 
-1. Gandalf
-2. Bilbo
-3. Sam
-4. Glorfindel
-5. Galadriel
-6. Elrond
-7. Thorin
-8. Sauron
-9. Aragorn
+1. The Tortured Poets Department
+2. Folklore
+3. Red
+4. Evermore
+5. Fearless
+6. The Life of a Showgirl
+7. Midnights
+8. Speak Now
+9. Reputation
+10. Lover
+11. Taylor Swift
+12. 1989
 
-Here's what `elflang` looks like (the perfect coding language):
+## Bücherregal
 
-```
-func main(){
-    fmt.Println("Aiya, Ambar!")
-}
-```
+### Ich lese gerade
 
-Want to get in touch? [Contact me here](/contact).
+The Realm of the Elderlings by Robin Hobb
 
-This site was generated with a custom-built [static site generator](https://www.boot.dev/courses/build-static-site-generator-python) from the course on [Boot.dev](https://www.boot.dev).
+### Letzte Lieblingsbücher
+
+- The Library at Mount Char by Scott Hawkins
+- The Mistborn Saga by Brandon Sanderson
+- Greg's Tagebuch by Jeff Kinney
+
+Möchtest du Kontakt aufnehmen?
+[Hierkannst du mir schreiben](/contact).
