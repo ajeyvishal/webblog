@@ -1,115 +1,175 @@
 # Mein Lesejahr 2026
 
-Eine kleine Übersicht über mein Lesejahr 2026 – was ich gerade lese, welche Bücher zuletzt auf meinem Stapel lagen und ein paar Zahlen darüber, wie viel ich dieses Jahr gelesen habe.
+Mein Lesejahr 2026 in Büchern und Zahlen.
 
-## Aktuell lese ich
+## Meine besten Bücher 2026
 
-### Buchtitel — Autor/in
+### The Library at Mount Char — Scott Hawkins
 
-![Cover von Buchtitel](https://PUBLIC-IMAGE-URL.jpg)
+![Cover von The Library at Mount Char](https://covers.openlibrary.org/b/ISBN/9780553418620-L.jpg)
 
-**Fortschritt:** 247 von 420 Seiten
+**Bewertung:** ★★★★★ (5 / 5)
 
-**Begonnen:** August 2026
+**Beendet:** 28.06.2026
 
-## Zuletzt gelesen
+### Detektiv Conan, Band 5 — Gosho Aoyama , Josef Shanel (Translator)
 
-### Buchtitel 1 — Autor/in
+![Cover von Detektiv Conan, Band 5](https://covers.openlibrary.org/b/ISBN/9783898853866-L.jpg)
 
-![Cover von Buchtitel 1](https://PUBLIC-IMAGE-URL-1.jpg)
+**Bewertung:** ★★★★★ (5 / 5)
 
-**★★★★★**
+**Beendet:** 12.06.2026
 
-**Beendet:** August 2026
+**Buchreihe:** Detektiv Conan #5
 
-### Buchtitel 2 — Autor/in
+### Die Auferstehung — Andreas Eschbach
 
-![Cover von Buchtitel 2](https://PUBLIC-IMAGE-URL-2.jpg)
+![Cover von Die Auferstehung](https://covers.openlibrary.org/b/ISBN/9783440179741-L.jpg)
 
-**★★★★☆**
+**Bewertung:** ★★★★★ (5 / 5)
 
-**Beendet:** August 2026
+**Beendet:** 31.05.2026
 
-### Buchtitel 3 — Autor/in
+### If it bleeds — Stephen King
 
-![Cover von Buchtitel 3](https://PUBLIC-IMAGE-URL-3.jpg)
+![Cover von If it bleeds](https://covers.openlibrary.org/b/ISBN/9781982150297-L.jpg)
 
-**★★★☆☆**
+**Bewertung:** ★★★★★ (5 / 5)
 
-**Beendet:** Juli 2026
+**Beendet:** 28.04.2026
 
-### Buchtitel 4 — Autor/in
+**Buchreihe:** Holly Gibney #2
 
-![Cover von Buchtitel 4](https://PUBLIC-IMAGE-URL-4.jpg)
+### Detektiv Conan, Band 4 — Gosho Aoyama
 
-**★★★★★**
+![Cover von Detektiv Conan, Band 4](https://covers.openlibrary.org/b/ISBN/9783898853859-L.jpg)
 
-**Beendet:** Juli 2026
+**Bewertung:** ★★★★★ (5 / 5)
 
-### Buchtitel 5 — Autor/in
+**Beendet:** 26.04.2026
 
-![Cover von Buchtitel 5](https://PUBLIC-IMAGE-URL-5.jpg)
+**Buchreihe:** Detektiv Conan #4
 
-**★★★★☆**
+### Detektiv Conan, Band 3 — Gosho Aoyama
 
-**Beendet:** Juni 2026
+![Cover von Detektiv Conan, Band 3](https://covers.openlibrary.org/b/ISBN/9783898853842-L.jpg)
+
+**Bewertung:** ★★★★★ (5 / 5)
+
+**Beendet:** 19.03.2026
+
+**Buchreihe:** Detektiv Conan #3
+
+### Detektiv Conan, Band 1 — Gosho Aoyama
+
+![Cover von Detektiv Conan, Band 1](https://covers.openlibrary.org/b/ISBN/9783898853828-L.jpg)
+
+**Bewertung:** ★★★★★ (5 / 5)
+
+**Beendet:** 14.03.2026
+
+**Buchreihe:** Detektiv Conan #1
+
+### Geht's noch? — Jeff Kinney
+
+![Cover von Geht's noch?](https://covers.openlibrary.org/b/ISBN/9783833936364-L.jpg)
+
+**Bewertung:** ★★★★★ (5 / 5)
+
+**Beendet:** 11.03.2026
+
+**Buchreihe:** Greg’s Tagebuch #5
+
+### Ich war's nicht! — Jeff Kinney , Collin McMahon (Übersetzer)
+
+![Cover von Ich war's nicht!](https://covers.openlibrary.org/b/ISBN/9783833936357-L.jpg)
+
+**Bewertung:** ★★★★★ (5 / 5)
+
+**Beendet:** 22.01.2026
+
+**Buchreihe:** Greg’s Tagebuch #4
+
 
 ## Mein Lesejahr in Zahlen
 
-- **Gelesene Bücher:** 24
-- **Gelesene Seiten:** 8.436
-- **Durchschnittliche Buchlänge:** 352 Seiten
-- **Durchschnittliche Bewertung:** 4,1 von 5
-- **Längstes Buch:** Buchtitel — 742 Seiten
-- **Kürzestes Buch:** Buchtitel — 128 Seiten
+- **Gelesene Bücher:** 35
+- **Gelesene Seiten:** 11.282
+- **Durchschnittliche Buchlänge:** 322 Seiten
+- **Durchschnittliche Bewertung:** 4,14 von 5
+- **Längstes Buch:** Royal Assassin — 752 Seiten
+- **Kürzestes Buch:** Die drei ??? und das Gespensterschloss — 144 Seiten
 
 ## Bücher pro Monat
 
-- **Januar:** ███ 3
-- **Februar:** ██ 2
-- **März:** ████ 4
-- **April:** █ 1
-- **Mai:** ██ 2
-- **Juni:** ███ 3
-- **Juli:** ██ 2
-- **August:** ███ 3
-- **September:** 0
-- **Oktober:** 0
-- **November:** 0
-- **Dezember:** 0
+```
+Januar     ███          3
+Februar    ███          3
+März       ███████      7
+April      █████        5
+Mai        ███          3
+Juni       ██████       6
+Juli       ██████       6
+August     ██           2
+September               0
+Oktober                 0
+November                0
+Dezember                0
+```
 
 ## Gelesene Seiten pro Monat
 
-- **Januar:** 1.024 Seiten
-- **Februar:** 683 Seiten
-- **März:** 1.342 Seiten
-- **April:** 416 Seiten
-- **Mai:** 721 Seiten
-- **Juni:** 1.086 Seiten
-- **Juli:** 894 Seiten
-- **August:** 1.127 Seiten
-- **September:** 0 Seiten
-- **Oktober:** 0 Seiten
-- **November:** 0 Seiten
-- **Dezember:** 0 Seiten
-
-## Bewertungen
-
-- **★★★★★:** 6 Bücher
-- **★★★★☆:** 10 Bücher
-- **★★★☆☆:** 6 Bücher
-- **★★☆☆☆:** 2 Bücher
-- **★☆☆☆☆:** 0 Bücher
+```
+Januar     ███████              816
+Februar    █████████            1.016
+März       ███████████████      1.652
+April      ██████████████       1.597
+Mai        ███████              816
+Juni       ███████████████████  2.138
+Juli       ████████████████████ 2.207
+August     █████████            1.040
+September                       0
+Oktober                         0
+November                        0
+Dezember                        0
+```
 
 ## Mein Bücherregal 2026
 
-1. Buchtitel — Autor/in — ★★★★★
-2. Buchtitel — Autor/in — ★★★★☆
-3. Buchtitel — Autor/in — ★★★☆☆
-4. Buchtitel — Autor/in — ★★★★★
-5. Buchtitel — Autor/in — ★★★★☆
-6. Buchtitel — Autor/in — ★★★★☆
-7. Buchtitel — Autor/in — ★★★★★
-8. Buchtitel — Autor/in — ★★★☆☆
+1. Stolz und Vorurteil - Die Graphic Novel — Jane Austen , Claudia Kühn , Tara Spruit (Illustrator) — ★★☆☆☆ (2,5 / 5)
+2. The Alloy of Law — Brandon Sanderson — ★★★★☆ (4,5 / 5)
+3. Ich war's nicht! — Jeff Kinney , Collin McMahon (Übersetzer) — ★★★★★ (5 / 5)
+4. Loyalties — Delphine de Vigan — ★★★★☆ (3,5 / 5)
+5. Shadows of Self — Brandon Sanderson — ★★★★☆ (3,75 / 5)
+6. Oma lässt grüßen und sagt, es tut ihr leid — Fredrik Backman — ★★★★☆ (3,75 / 5)
+7. Geht's noch? — Jeff Kinney — ★★★★★ (5 / 5)
+8. Detektiv Conan, Band 1 — Gosho Aoyama — ★★★★★ (5 / 5)
+9. Detektiv Conan, Band 2 — Gosho Aoyama — ★★★★★ (4,75 / 5)
+10. Detektiv Conan, Band 3 — Gosho Aoyama — ★★★★★ (5 / 5)
+11. The Bands of Mourning — Brandon Sanderson — ★★★★☆ (3,75 / 5)
+12. The Perks of Being a Wallflower — Stephen Chbosky — ★★★★☆ (4,25 / 5)
+13. Manuskript des Satans — Hendrik Buchna — ★★★★☆ (3,5 / 5)
+14. Mistborn: Secret History — Brandon Sanderson — ★★★★☆ (4,5 / 5)
+15. Outgrowing God: A Beginner’s Guide — Richard Dawkins — ★★★★☆ (3,75 / 5)
+16. The Lost Metal — Brandon Sanderson — ★★★★☆ (4,25 / 5)
+17. Detektiv Conan, Band 4 — Gosho Aoyama — ★★★★★ (5 / 5)
+18. If it bleeds — Stephen King — ★★★★★ (5 / 5)
+19. Die drei ??? und das Gespensterschloss — Robert Arthur — ★★★★☆ (3,75 / 5)
+20. Keine Panik! — Jeff Kinney — ★★★★☆ (4,25 / 5)
+21. Die Auferstehung — Andreas Eschbach — ★★★★★ (5 / 5)
+22. The Fifth Season — N.K. Jemisin — ★★★★☆ (3,75 / 5)
+23. Detektiv Conan, Band 5 — Gosho Aoyama , Josef Shanel (Translator) — ★★★★★ (5 / 5)
+24. The Obelisk Gate — N.K. Jemisin — ★★★★☆ (3,5 / 5)
+25. The Stone Sky — N.K. Jemisin — ★★★☆☆ (2,75 / 5)
+26. Dumm gelaufen! — Jeff Kinney — ★★★★☆ (3,75 / 5)
+27. The Library at Mount Char — Scott Hawkins — ★★★★★ (5 / 5)
+28. Detektiv Conan, Band 6 — Gosho Aoyama — ★★★★★ (4,75 / 5)
+29. The Poppy War — R.F: Kuang — ★★☆☆☆ (2,5 / 5)
+30. Letztendlich sind wir dem Universum egal — David Levithan — ★★★★☆ (3,75 / 5)
+31. Blindsight — Peter Watts — ★★★☆☆ (2,75 / 5)
+32. Detektiv Conan, Band 7 — Gosho Aoyama — ★★★★☆ (4,25 / 5)
+33. Assassin's Apprentice — Robin Hobb — ★★★★☆ (4,5 / 5)
+34. Royal Assassin — Robin Hobb — ★★★★★ (4,75 / 5)
+35. There Is No Antimemetics Division — qntm — ★★★★☆ (4 / 5)
 
-[← Zurück zur Leseübersicht](/reading/)
+[← Zurück zur Leseübersicht](/blog/reading/)
