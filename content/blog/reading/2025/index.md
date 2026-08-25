@@ -212,3 +212,5 @@ Dezember   ████████████████     1.724
 42. Death Note 12: Ende — Tsugumi Ohba , Takeshi Obata (Illustrator) — ★★★★☆ (4,5 / 5)
 
 [← Zurück zur Leseübersicht](/blog/reading/)
+
+[← Zurück zum Blog](/)

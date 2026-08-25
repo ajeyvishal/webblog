@@ -19,7 +19,7 @@ Dieser Blog ist ein kleines Archiv der Dinge, an die ich mich erinnern möchte: 
 
 ## Meine Bibliothek 
 
-- [Entry Point](/blog/reading)
+- [Alle meine Bücher](/blog/reading)
 
 
 ## Dinge, die sich nach mir anfühlen

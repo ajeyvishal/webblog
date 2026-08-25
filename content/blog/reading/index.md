@@ -97,3 +97,5 @@ Hier sammle ich, was ich gerade lese, welche Bücher zuletzt auf meinem Stapel l
 - [2020](/blog/reading/2020/)
 - [2019](/blog/reading/2019/)
 - [2018](/blog/reading/2018/)
+
+[← Zurück zum Blog](/)

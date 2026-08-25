@@ -127,3 +127,5 @@ Dezember   ████████             849
 15. 11/22/63 — Stephen King — ★★★★★ (5 / 5)
 
 [← Zurück zur Leseübersicht](/blog/reading/)
+
+[← Zurück zum Blog](/)

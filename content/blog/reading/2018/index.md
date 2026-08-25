@@ -118,3 +118,5 @@ Dezember   █████████████        691
 16. Misery — Stephen King — ★★★★★ (5 / 5)
 
 [← Zurück zur Leseübersicht](/blog/reading/)
+
+[← Zurück zum Blog](/)

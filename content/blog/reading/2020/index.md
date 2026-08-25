@@ -175,3 +175,5 @@ Dezember   ██                   191
 23. Cat's Cradle — Kurt Vonnegut Jr. — ★★☆☆☆ (2 / 5)
 
 [← Zurück zur Leseübersicht](/blog/reading/)
+
+[← Zurück zum Blog](/)

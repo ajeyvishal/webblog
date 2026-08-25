@@ -126,3 +126,5 @@ Dezember   ███████████████████  1.618
 40. Parable of the Talents — Octavia E. Butler — ★★★★☆ (4,25 / 5)
 
 [← Zurück zur Leseübersicht](/blog/reading/)
+
+[← Zurück zum Blog](/)

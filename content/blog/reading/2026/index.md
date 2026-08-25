@@ -173,3 +173,5 @@ Dezember                        0
 35. There Is No Antimemetics Division — qntm — ★★★★☆ (4 / 5)
 
 [← Zurück zur Leseübersicht](/blog/reading/)
+
+[← Zurück zum Blog](/)

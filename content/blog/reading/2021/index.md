@@ -163,3 +163,5 @@ Dezember   █████████████        848
 31. Exhalation — Ted Chiang — ★★★★☆ (4 / 5)
 
 [← Zurück zur Leseübersicht](/blog/reading/)
+
+[← Zurück zum Blog](/)

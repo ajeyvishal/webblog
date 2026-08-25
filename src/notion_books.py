@@ -722,6 +722,8 @@ def generate_reading_markdown(books, year):
         ),
         "",
         "[← Zurück zur Leseübersicht](/blog/reading/)",
+        "",
+        "[← Zurück zum Blog](/)",
     ]
 
     return "\n".join(sections)
@@ -850,6 +852,8 @@ def generate_reading_index_markdown(books):
         recent_books_markdown(recent_books),
         "",
         reading_years_markdown(years),
+        "",
+        "[← Zurück zum Blog](/)",
     ]
 
     return "\n".join(sections)

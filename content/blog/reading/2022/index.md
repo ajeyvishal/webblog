@@ -184,3 +184,5 @@ Dezember   █████████            1.106
 22. Marvel Masterworks: The Amazing Spider-Man, Vol. 1 — Stan Lee — ★★★★★ (5 / 5)
 
 [← Zurück zur Leseübersicht](/blog/reading/)
+
+[← Zurück zum Blog](/)

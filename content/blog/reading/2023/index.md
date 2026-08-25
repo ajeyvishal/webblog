@@ -225,3 +225,5 @@ Dezember   ████████████████████ 2.069
 23. Piranesi — Susanna Clarke — ★★★☆☆ (3 / 5)
 
 [← Zurück zur Leseübersicht](/blog/reading/)
+
+[← Zurück zum Blog](/)
