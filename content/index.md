@@ -17,6 +17,11 @@ Dieser Blog ist ein kleines Archiv der Dinge, an die ich mich erinnern möchte: 
 - [Why Tom Bombadil Was a Mistake](/blog/tom)
 - [The Unparalleled Majesty of "The Lord of the Rings"](/blog/majesty)
 
+## Meine Bibliothek 
+
+- [Entry Point](/blog/reading)
+
+
 ## Dinge, die sich nach mir anfühlen
 
 - Lieder mit einer besonderen Geschichte
