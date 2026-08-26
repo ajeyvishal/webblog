@@ -4,11 +4,7 @@ Ich höre gerne Taylor Swift und lese unglaublich viele Bücher.
 
 Dieser Blog ist ein kleines Archiv der Dinge, an die ich mich erinnern möchte: Bücher, die mich begeistert haben, Lieder, zu denen ich immer wieder zurückkehre, Fotos, die ich gemacht habe, und alltägliche Momente, die sich irgendwie besonders angefühlt haben.
 
-![JRR Tolkien sitting](/images/tolkien.png)
-
-> "Hold on to the memories, they will hold on to you."
->
-> -- Taylor Swift
+![Hüttentour 2026](/images/hike.jpeg)
 
 ## Mein Erinnerungsarchiv
 
@@ -21,6 +17,10 @@ Dieser Blog ist ein kleines Archiv der Dinge, an die ich mich erinnern möchte: 
 
 - [Alle meine Bücher](/blog/reading)
 
+## Musik
+
+- [Taylor Swift](/blog/taylor)
+
 
 ## Dinge, die sich nach mir anfühlen
 
@@ -31,20 +31,6 @@ Dieser Blog ist ein kleines Archiv der Dinge, an die ich mich erinnern möchte: 
 - Fremde Menschen anlächeln
 - Stundenlang Fahrrad fahren
 
-## Meine aktuelle Taylor-Swift-Konstellation (in Reihenfolge)
-
-1. The Tortured Poets Department
-2. Folklore
-3. Red
-4. Evermore
-5. Fearless
-6. The Life of a Showgirl
-7. Midnights
-8. Speak Now
-9. Reputation
-10. Lover
-11. Taylor Swift
-12. 1989
 
 ## Bücherregal
 
