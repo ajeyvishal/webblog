@@ -2,6 +2,8 @@
 
 Hier sammle ich ausführlichere Gedanken zu ausgewählten Büchern. Die meisten Bücher landen nur in meiner Lesestatistik – aber manche bleiben länger im Kopf.
 
+![Bibliothek](/images/bibliothek.jpg)
+
 ## Rezensionen
 
 - [Das unsichtbare Leben der Addie LaRue](/blog/reading/reviews/addie-larue/)
@@ -10,4 +12,4 @@ Hier sammle ich ausführlichere Gedanken zu ausgewählten Büchern. Die meisten 
 
 [← Zurück zu meinen Büchern](/blog/reading/)
 
-[← Zurück zum Blog](/blog/)
+[← Zurück zum Blog](/)
