@@ -851,6 +851,16 @@ def generate_reading_index_markdown(books):
         "",
         recent_books_markdown(recent_books),
         "",
+        "## Rezensionen",
+        "",
+        (
+            "Nicht jedes Buch bekommt eine ausführliche Rezension. "
+            "Aber manchmal bleiben nach der letzten Seite noch ein paar "
+            "Gedanken übrig, die ich festhalten möchte."
+        ),
+        "",
+        "[→ Zu meinen Buchrezensionen](/blog/reading/reviews/)",
+        "",
         reading_years_markdown(years),
         "",
         "[← Zurück zum Blog](/)",

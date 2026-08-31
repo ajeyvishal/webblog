@@ -4,28 +4,40 @@ Hier sammle ich, was ich gerade lese, welche Bücher zuletzt auf meinem Stapel l
 
 ## Aktuell lese ich
 
+### Detektiv Conan, Band 8 — Gosho Aoyama
+
+![Cover von Detektiv Conan, Band 8](https://covers.openlibrary.org/b/ISBN/9783898853897-L.jpg)
+
+**Fortschritt:** 5 von 192 Seiten
+
+**Gelesen:** 3 %
+
+**Begonnen:** 31.08.2026
+
+
+## Zuletzt gelesen
+
 ### The Invisible Life of Addie LaRue — V.E. Schwab
 
 ![Cover von The Invisible Life of Addie LaRue](https://covers.openlibrary.org/b/ISBN/9781789095593-L.jpg)
 
-**Fortschritt:** 170 von 545 Seiten
+**Bewertung:** ★★★★☆ (4 / 5)
 
-**Gelesen:** 31 %
+**Beendet:** 30.08.2026
 
-**Begonnen:** 18.08.2026
+**Seiten:** 545
 
 ### Ich bin Nummer Vier — Pittacus Lore
 
 ![Cover von Ich bin Nummer Vier](https://covers.openlibrary.org/b/ISBN/9783351041281-L.jpg)
 
-**Fortschritt:** 150 von 352 Seiten
+**Bewertung:** ★★☆☆☆ (2,5 / 5)
 
-**Gelesen:** 43 %
+**Beendet:** 30.08.2026
 
-**Begonnen:** 23.07.2026
+**Seiten:** 352
 
-
-## Zuletzt gelesen
+**Buchreihe:** Lorien Legacies #1
 
 ### There Is No Antimemetics Division — qntm
 
@@ -61,30 +73,12 @@ Hier sammle ich, was ich gerade lese, welche Bücher zuletzt auf meinem Stapel l
 
 **Buchreihe:** The Realm of the Elderlings #1
 
-### Detektiv Conan, Band 7 — Gosho Aoyama
 
-![Cover von Detektiv Conan, Band 7](https://covers.openlibrary.org/b/ISBN/9783898853880-L.jpg)
+## Rezensionen
 
-**Bewertung:** ★★★★☆ (4,25 / 5)
+Nicht jedes Buch bekommt eine ausführliche Rezension. Aber manchmal bleiben nach der letzten Seite noch ein paar Gedanken übrig, die ich festhalten möchte.
 
-**Beendet:** 23.07.2026
-
-**Seiten:** 192
-
-**Buchreihe:** Detektiv Conan #7
-
-### Blindsight — Peter Watts
-
-![Cover von Blindsight](https://covers.openlibrary.org/b/ISBN/9780765312181-L.jpg)
-
-**Bewertung:** ★★★☆☆ (2,75 / 5)
-
-**Beendet:** 21.07.2026
-
-**Seiten:** 384
-
-**Buchreihe:** Firefall #1
-
+[→ Zu meinen Buchrezensionen](/blog/reading/reviews/)
 
 ## Lesejahre
 
