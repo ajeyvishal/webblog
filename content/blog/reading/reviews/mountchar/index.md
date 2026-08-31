@@ -1,6 +1,6 @@
 # The Library at Mount Char
 
-![Cover von The Library at Mount Char](https://covers.openlibrary.org/b/ISBN/9780006480099-L.jpg)
+![Cover von The Library at Mount Char](https://covers.openlibrary.org/b/ISBN/9780553418620-L.jpg)
 
 **Autor:** Scott Hawkins
 
