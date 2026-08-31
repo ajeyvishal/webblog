@@ -20,7 +20,7 @@ Zum anderen wächst eine Bedrohung für das Königreich. Fitz wird immer stärke
 
 ## Wie ich das Buch entdeckt habe
 
-*The Realm of the Elderlings* gehört zu den bekanntesten Fantasy-Reihen der letzten Jahrzehnte, und *Assassin's Apprentice* stand schon seit Jahren auf meiner Wunschliste.
+_The Realm of the Elderlings_ gehört zu den bekanntesten Fantasy-Reihen der letzten Jahrzehnte, und _Assassin's Apprentice_ stand schon seit Jahren auf meiner Wunschliste.
 
 Nach mehreren Büchern von Brandon Sanderson brauchte ich etwas Abwechslung und dachte, dass jetzt der richtige Zeitpunkt wäre, endlich in Robin Hobbs Welt einzutauchen.
 
@@ -30,9 +30,9 @@ Das Buch war unglaublich fesselnd. Ich konnte teilweise kaum aufhören zu lesen.
 
 Fitz ist ein sehr sympathischer Hauptcharakter, mit dem ich mich erstaunlich gut identifizieren konnte. Das Magiesystem finde ich interessant, aber bisher noch nicht besonders spektakulär. Ich vermute allerdings, dass dieses Buch hauptsächlich die Grundlage legt und wir in den späteren Büchern noch viel mehr darüber erfahren werden.
 
-Besonders auffällig war für mich der Vergleich mit *The Poppy War*. Beide Geschichten haben erstaunlich viele Gemeinsamkeiten: Ein Kind, das als Außenseiter gilt, muss neue Fähigkeiten lernen, Vorurteile überwinden und schließlich dabei helfen, ein bedrohtes Reich zu verteidigen.
+Besonders auffällig war für mich der Vergleich mit _The Poppy War_. Beide Geschichten haben erstaunlich viele Gemeinsamkeiten: Ein Kind, das als Außenseiter gilt, muss neue Fähigkeiten lernen, Vorurteile überwinden und schließlich dabei helfen, ein bedrohtes Reich zu verteidigen.
 
-Trotzdem fühlte sich *Assassin's Apprentice* für mich deutlich reifer an.
+Trotzdem fühlte sich _Assassin's Apprentice_ für mich deutlich reifer an.
 
 Das Buch ist keineswegs leicht oder fröhlich. Themen wie Einsamkeit, Selbstmordgedanken, Versagen und emotionale Isolation spielen eine große Rolle. Aber im Gegensatz zu Geschichten, die ausschließlich auf Leid setzen, hatte ich hier immer das Gefühl, dass diese Themen tatsächlich etwas über Fitz und seine Entwicklung erzählen.
 
