@@ -6,7 +6,7 @@
 
 **Reihe:** The Farseer Trilogy #1
 
-**Meine Bewertung:** ★★★★★ — 5 von 5
+**Meine Bewertung:** ★★★★☆ (4,5 / 5)
 
 ## Worum geht es?
 

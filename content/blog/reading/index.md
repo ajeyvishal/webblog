@@ -4,18 +4,30 @@ Hier sammle ich, was ich gerade lese, welche Bücher zuletzt auf meinem Stapel l
 
 ## Aktuell lese ich
 
+### Assassin's Quest — Robin Hobb
+
+![Cover von Assassin's Quest](https://covers.openlibrary.org/b/ISBN/9780006480112-L.jpg)
+
+**Fortschritt:** 120 von 838 Seiten
+
+**Gelesen:** 14 %
+
+**Begonnen:** 01.09.2026
+
+
+## Zuletzt gelesen
+
 ### Detektiv Conan, Band 8 — Gosho Aoyama
 
 ![Cover von Detektiv Conan, Band 8](https://covers.openlibrary.org/b/ISBN/9783898853897-L.jpg)
 
-**Fortschritt:** 5 von 192 Seiten
+**Bewertung:** ★★★★☆ (4,5 / 5)
 
-**Gelesen:** 3 %
+**Beendet:** 05.09.2026
 
-**Begonnen:** 31.08.2026
+**Seiten:** 192
 
-
-## Zuletzt gelesen
+**Buchreihe:** Detektiv Conan #8
 
 ### The Invisible Life of Addie LaRue — V.E. Schwab
 
@@ -60,18 +72,6 @@ Hier sammle ich, was ich gerade lese, welche Bücher zuletzt auf meinem Stapel l
 **Seiten:** 752
 
 **Buchreihe:** The Realm of the Elderlings #2
-
-### Assassin's Apprentice — Robin Hobb
-
-![Cover von Assassin's Apprentice](https://covers.openlibrary.org/b/ISBN/9780006480099-L.jpg)
-
-**Bewertung:** ★★★★☆ (4,5 / 5)
-
-**Beendet:** 31.07.2026
-
-**Seiten:** 480
-
-**Buchreihe:** The Realm of the Elderlings #1
 
 
 ## Rezensionen

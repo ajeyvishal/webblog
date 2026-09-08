@@ -9,9 +9,6 @@ Dieser Blog ist ein kleines Archiv der Dinge, an die ich mich erinnern möchte: 
 ## Mein Erinnerungsarchiv
 
 - [2026](/blog/2026)
-- [Why Glorfindel is More Impressive than Legolas](/blog/glorfindel)
-- [Why Tom Bombadil Was a Mistake](/blog/tom)
-- [The Unparalleled Majesty of "The Lord of the Rings"](/blog/majesty)
 
 ## Meine Bibliothek 
 
@@ -20,6 +17,7 @@ Dieser Blog ist ein kleines Archiv der Dinge, an die ich mich erinnern möchte: 
 ## Musik
 
 - [Taylor Swift](/blog/taylor)
+- [Ed Sheeran](/blog/sheeran)
 
 
 ## Dinge, die sich nach mir anfühlen
