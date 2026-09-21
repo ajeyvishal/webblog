@@ -44,7 +44,7 @@ aber nicht.
 
 [Deine Erinnerung]
 
-![sheeran4](/images/munchen2.JPG)
+![sheeran4](/images/munchen2.jpg)
 
 ---
 
