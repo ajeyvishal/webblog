@@ -26,7 +26,7 @@ Direkt am nächsten Abend noch einmal. Diesmal wusste ich schon ein
 bisschen besser, was mich erwartet – weniger besonders wurde es dadurch
 aber nicht.
 
-![sheeran1](/images/ednight2.jpg)
+![sheeran2](/images/ednight2.jpg)
 
 ---
 
