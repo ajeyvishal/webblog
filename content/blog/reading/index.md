@@ -4,18 +4,21 @@ Hier sammle ich, was ich gerade lese, welche Bücher zuletzt auf meinem Stapel l
 
 ## Aktuell lese ich
 
+Momentan lese ich kein Buch.
+
+## Zuletzt gelesen
+
 ### Assassin's Quest — Robin Hobb
 
 ![Cover von Assassin's Quest](https://covers.openlibrary.org/b/ISBN/9780006480112-L.jpg)
 
-**Fortschritt:** 120 von 838 Seiten
+**Bewertung:** ★★★★☆ (3,5 / 5)
 
-**Gelesen:** 14 %
+**Beendet:** 21.09.2026
 
-**Begonnen:** 01.09.2026
+**Seiten:** 838
 
-
-## Zuletzt gelesen
+**Buchreihe:** The Realm of the Elderlings #3
 
 ### Detektiv Conan, Band 8 — Gosho Aoyama
 
@@ -60,18 +63,6 @@ Hier sammle ich, was ich gerade lese, welche Bücher zuletzt auf meinem Stapel l
 **Beendet:** 16.08.2026
 
 **Seiten:** 288
-
-### Royal Assassin — Robin Hobb
-
-![Cover von Royal Assassin](https://covers.openlibrary.org/b/ISBN/9780006480105-L.jpg)
-
-**Bewertung:** ★★★★★ (4,75 / 5)
-
-**Beendet:** 10.08.2026
-
-**Seiten:** 752
-
-**Buchreihe:** The Realm of the Elderlings #2
 
 
 ## Rezensionen

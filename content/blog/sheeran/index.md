@@ -11,8 +11,7 @@ Sieben Konzerte, vier Städte und ziemlich viele Songs, die ich inzwischen auswe
 
 ## +−=÷× Tour
 
-#### 8. Juli 2022 · Gelsenkirchen
-**VELTINS-Arena**
+#### VELTINS-Arena Gelsenkirchen · 8. Juli 2022 
 
 Mein erstes Ed-Sheeran-Konzert – und offensichtlich nicht mein letztes.
 
@@ -20,7 +19,7 @@ Mein erstes Ed-Sheeran-Konzert – und offensichtlich nicht mein letztes.
 
 ---
 
-#### 9. Juli 2022 · Gelsenkirchen
+#### VELTINS-Arena Gelsenkirchen · 9. Juli 2022
 **VELTINS-Arena**
 
 Direkt am nächsten Abend noch einmal. Diesmal wusste ich schon ein
@@ -31,7 +30,7 @@ aber nicht.
 
 ---
 
-#### 10. September 2022 · München
+#### Olympiastadion München · 10. September 2022
 **Olympiastadion**
 
 [Deine Erinnerung]
@@ -40,7 +39,7 @@ aber nicht.
 
 ---
 
-#### 12. September 2022 · München
+#### Olympiastadion München · 12. September 2022
 **Olympiastadion**
 
 [Deine Erinnerung]
@@ -49,8 +48,8 @@ aber nicht.
 
 ---
 
-#### 13. Juli 2024 · Gdańsk
-**Polsat Plus Arena**
+#### Polsat Plus Arena, Gdańsk · 13. Juli 2024
+****
 
 [Deine Erinnerung]
 
@@ -60,8 +59,7 @@ aber nicht.
 
 ## Mathematics Tour – European Tour 2025
 
-#### 4. Juli 2025 · Hamburg
-**Volksparkstadion**
+#### Volksparkstadion Hamburg · 4. Juli 2025
 
 [Deine Erinnerung]
 
@@ -69,8 +67,7 @@ aber nicht.
 
 ---
 
-#### 5. Juli 2025 · Hamburg
-**Volksparkstadion**
+#### Volksparkstadion Hamburg · 5. Juli 2025
 
 [Deine Erinnerung]
 

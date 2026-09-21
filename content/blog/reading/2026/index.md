@@ -93,11 +93,11 @@ Mein Lesejahr 2026 in Büchern und Zahlen.
 
 ## Mein Lesejahr in Zahlen
 
-- **Gelesene Bücher:** 38
-- **Gelesene Seiten:** 12.371
-- **Durchschnittliche Buchlänge:** 326 Seiten
-- **Durchschnittliche Bewertung:** 4,1 von 5
-- **Längstes Buch:** Royal Assassin — 752 Seiten
+- **Gelesene Bücher:** 39
+- **Gelesene Seiten:** 13.209
+- **Durchschnittliche Buchlänge:** 339 Seiten
+- **Durchschnittliche Bewertung:** 4,08 von 5
+- **Längstes Buch:** Assassin's Quest — 838 Seiten
 - **Kürzestes Buch:** Die drei ??? und das Gespensterschloss — 144 Seiten
 
 ## Bücher pro Monat
@@ -111,7 +111,7 @@ Mai        ███          3
 Juni       ██████       6
 Juli       ██████       6
 August     ████         4
-September  █            1
+September  ██           2
 Oktober                 0
 November                0
 Dezember                0
@@ -128,7 +128,7 @@ Mai        ███████              816
 Juni       ███████████████████  2.138
 Juli       ████████████████████ 2.207
 August     ██████████████████   1.937
-September  ██                   192
+September  █████████            1.030
 Oktober                         0
 November                        0
 Dezember                        0
@@ -174,6 +174,7 @@ Dezember                        0
 36. The Invisible Life of Addie LaRue — V.E. Schwab — ★★★★☆ (4 / 5)
 37. Ich bin Nummer Vier — Pittacus Lore — ★★☆☆☆ (2,5 / 5)
 38. Detektiv Conan, Band 8 — Gosho Aoyama — ★★★★☆ (4,5 / 5)
+39. Assassin's Quest — Robin Hobb — ★★★★☆ (3,5 / 5)
 
 [← Zurück zur Leseübersicht](/blog/reading/)
 
