@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html lang="de">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -8,6 +8,25 @@
   </head>
 
   <body>
-    <article>{{ Content }}</article>
+
+    <!-- Hauptnavigation -->
+    <nav class="main-nav" aria-label="Hauptnavigation">
+
+      <a href="/" class="nav-home">✦ Mein Blog</a>
+
+      <div class="nav-links">
+        <a href="/blog/reading/">📚 Bücher</a>
+        <a href="/blog/taylor/">🎵 Konzerte</a>
+        <a href="/blog/badminton/">🏸 Badminton</a>
+        <a href="/blog/ueber-mich/">👤 Über mich</a>
+      </div>
+
+    </nav>
+
+    <!-- Seiteninhalt -->
+    <main>
+      <article>{{ Content }}</article>
+    </main>
+
   </body>
 </html>

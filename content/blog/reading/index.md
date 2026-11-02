@@ -4,9 +4,74 @@ Hier sammle ich, was ich gerade lese, welche Bücher zuletzt auf meinem Stapel l
 
 ## Aktuell lese ich
 
-Momentan lese ich kein Buch.
+### Klara und die Sonne — Kazuo Ishiguro
+
+![Cover von Klara und die Sonne](https://covers.openlibrary.org/b/ISBN/9783896676931-L.jpg)
+
+**Fortschritt:** 280 von 349 Seiten
+
+**Gelesen:** 80 %
+
+**Begonnen:** 18.10.2026
+
+### Detektiv Conan, Band 11 — Gosho Aoyama
+
+![Cover von Detektiv Conan, Band 11](https://covers.openlibrary.org/b/ISBN/9783898853927-L.jpg)
+
+**Fortschritt:** 5 von 192 Seiten
+
+**Gelesen:** 3 %
+
+**Begonnen:** 06.10.2026
+
 
 ## Zuletzt gelesen
+
+### Brief Answers To The Big Questions — Stephen Hawking
+
+![Cover von Brief Answers To The Big Questions](https://covers.openlibrary.org/b/ISBN/9781473695993-L.jpg)
+
+**Bewertung:** ★★★☆☆ (3,25 / 5)
+
+**Beendet:** 27.10.2026
+
+**Seiten:** 272
+
+### Detektiv Conan, Band 10 — Gosho Aoyama
+
+![Cover von Detektiv Conan, Band 10](https://covers.openlibrary.org/b/ISBN/9783898853910-L.jpg)
+
+**Bewertung:** ★★★★☆ (4,5 / 5)
+
+**Beendet:** 04.10.2026
+
+**Seiten:** 192
+
+**Buchreihe:** Detektiv Conan #10
+
+### Das Dorf in den roten Wäldern — Louise Penny
+
+![Cover von Das Dorf in den roten Wäldern](https://covers.openlibrary.org/b/ISBN/9783311120063-L.jpg)
+
+**Bewertung:** ★★★☆☆ (3 / 5)
+
+**Beendet:** 28.09.2026
+
+**Seiten:** 395
+
+**Buchreihe:** Chief Inspector Armand Gamache #1
+
+### Detektiv Conan, Band 9 — Gosho Aoyama
+
+![Cover von Detektiv Conan, Band 9](https://covers.openlibrary.org/b/ISBN/9783898853903-L.jpg)
+
+**Bewertung:** ★★★★☆ (4,25 / 5)
+
+**Beendet:** 27.09.2026
+
+**Seiten:** 176
+
+**Buchreihe:** Detektiv Conan #9
 
 ### Assassin's Quest — Robin Hobb
 
@@ -19,50 +84,6 @@ Momentan lese ich kein Buch.
 **Seiten:** 838
 
 **Buchreihe:** The Realm of the Elderlings #3
-
-### Detektiv Conan, Band 8 — Gosho Aoyama
-
-![Cover von Detektiv Conan, Band 8](https://covers.openlibrary.org/b/ISBN/9783898853897-L.jpg)
-
-**Bewertung:** ★★★★☆ (4,5 / 5)
-
-**Beendet:** 05.09.2026
-
-**Seiten:** 192
-
-**Buchreihe:** Detektiv Conan #8
-
-### The Invisible Life of Addie LaRue — V.E. Schwab
-
-![Cover von The Invisible Life of Addie LaRue](https://covers.openlibrary.org/b/ISBN/9781789095593-L.jpg)
-
-**Bewertung:** ★★★★☆ (4 / 5)
-
-**Beendet:** 30.08.2026
-
-**Seiten:** 545
-
-### Ich bin Nummer Vier — Pittacus Lore
-
-![Cover von Ich bin Nummer Vier](https://covers.openlibrary.org/b/ISBN/9783351041281-L.jpg)
-
-**Bewertung:** ★★☆☆☆ (2,5 / 5)
-
-**Beendet:** 30.08.2026
-
-**Seiten:** 352
-
-**Buchreihe:** Lorien Legacies #1
-
-### There Is No Antimemetics Division — qntm
-
-![Cover von There Is No Antimemetics Division](https://covers.openlibrary.org/b/ISBN/9781529979244-L.jpg)
-
-**Bewertung:** ★★★★☆ (4 / 5)
-
-**Beendet:** 16.08.2026
-
-**Seiten:** 288
 
 
 ## Rezensionen

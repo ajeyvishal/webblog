@@ -128,3 +128,80 @@ img {
 ::-webkit-scrollbar-corner {
   background: #1f1c25;
 }
+/* =====================================
+   NAVIGATION
+   ===================================== */
+
+.main-nav {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+
+  padding: 20px 0;
+  margin-bottom: 35px;
+
+  border-bottom: 1px solid #5a5466;
+}
+
+/* Blogname */
+
+.main-nav {
+  font-family: Georgia, serif;
+}
+.main-nav .nav-home {
+  color: #dda15e;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-decoration: none;
+  border-bottom: none;
+}
+
+/* Navigationslinks */
+
+.main-nav .nav-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 25px;
+}
+
+.main-nav .nav-links a {
+  color: #f0e6d1;
+  font-size: 1.1rem;
+  text-decoration: none;
+  border-bottom: none;
+  padding: 6px 0;
+
+  transition: color 0.2s ease;
+}
+
+/* Hover-Effekt */
+
+.main-nav .nav-links a:hover {
+  color: #dda15e;
+}
+
+/* =====================================
+   MOBILE NAVIGATION
+   ===================================== */
+
+@media (max-width: 600px) {
+
+  .main-nav {
+    align-items: center;
+    text-align: center;
+  }
+
+  .main-nav .nav-links {
+    justify-content: center;
+    gap: 12px 20px;
+  }
+
+  .main-nav .nav-links a {
+    font-size: 1rem;
+  }
+  .main-nav {
+  font-family: Georgia, serif;
+}
+}

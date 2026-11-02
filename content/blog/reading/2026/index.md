@@ -93,10 +93,10 @@ Mein Lesejahr 2026 in Büchern und Zahlen.
 
 ## Mein Lesejahr in Zahlen
 
-- **Gelesene Bücher:** 39
-- **Gelesene Seiten:** 13.209
-- **Durchschnittliche Buchlänge:** 339 Seiten
-- **Durchschnittliche Bewertung:** 4,08 von 5
+- **Gelesene Bücher:** 43
+- **Gelesene Seiten:** 14.244
+- **Durchschnittliche Buchlänge:** 331 Seiten
+- **Durchschnittliche Bewertung:** 4,05 von 5
 - **Längstes Buch:** Assassin's Quest — 838 Seiten
 - **Kürzestes Buch:** Die drei ??? und das Gespensterschloss — 144 Seiten
 
@@ -111,8 +111,8 @@ Mai        ███          3
 Juni       ██████       6
 Juli       ██████       6
 August     ████         4
-September  ██           2
-Oktober                 0
+September  ████         4
+Oktober    ██           2
 November                0
 Dezember                0
 ```
@@ -128,8 +128,8 @@ Mai        ███████              816
 Juni       ███████████████████  2.138
 Juli       ████████████████████ 2.207
 August     ██████████████████   1.937
-September  █████████            1.030
-Oktober                         0
+September  ███████████████      1.601
+Oktober    ████                 464
 November                        0
 Dezember                        0
 ```
@@ -175,6 +175,10 @@ Dezember                        0
 37. Ich bin Nummer Vier — Pittacus Lore — ★★☆☆☆ (2,5 / 5)
 38. Detektiv Conan, Band 8 — Gosho Aoyama — ★★★★☆ (4,5 / 5)
 39. Assassin's Quest — Robin Hobb — ★★★★☆ (3,5 / 5)
+40. Detektiv Conan, Band 9 — Gosho Aoyama — ★★★★☆ (4,25 / 5)
+41. Das Dorf in den roten Wäldern — Louise Penny — ★★★☆☆ (3 / 5)
+42. Detektiv Conan, Band 10 — Gosho Aoyama — ★★★★☆ (4,5 / 5)
+43. Brief Answers To The Big Questions — Stephen Hawking — ★★★☆☆ (3,25 / 5)
 
 [← Zurück zur Leseübersicht](/blog/reading/)
 
