@@ -4,28 +4,62 @@ Hier sammle ich, was ich gerade lese, welche Bücher zuletzt auf meinem Stapel l
 
 ## Aktuell lese ich
 
-### Klara und die Sonne — Kazuo Ishiguro
+### Shroud — Adrian Tchaikovsky
 
-![Cover von Klara und die Sonne](https://covers.openlibrary.org/b/ISBN/9783896676931-L.jpg)
+![Cover von Shroud](https://covers.openlibrary.org/b/ISBN/9780316579025-L.jpg)
 
-**Fortschritt:** 280 von 349 Seiten
+**Fortschritt:** 30 von 436 Seiten
 
-**Gelesen:** 80 %
+**Gelesen:** 7 %
 
-**Begonnen:** 18.10.2026
+**Begonnen:** 23.11.2026
+
+### Echt übel! — Jeff Kinney
+
+![Cover von Echt übel!](https://covers.openlibrary.org/b/ISBN/9783833936494-L.jpg)
+
+**Fortschritt:** 110 von 224 Seiten
+
+**Gelesen:** 49 %
+
+**Begonnen:** 18.11.2026
+
+
+## Zuletzt gelesen
 
 ### Detektiv Conan, Band 11 — Gosho Aoyama
 
 ![Cover von Detektiv Conan, Band 11](https://covers.openlibrary.org/b/ISBN/9783898853927-L.jpg)
 
-**Fortschritt:** 5 von 192 Seiten
+**Bewertung:** ★★★★☆ (4,25 / 5)
 
-**Gelesen:** 3 %
+**Beendet:** 16.11.2026
 
-**Begonnen:** 06.10.2026
+**Seiten:** 192
 
+**Buchreihe:** Detektiv Conan #11
 
-## Zuletzt gelesen
+### Holly — Stephen King
+
+![Cover von Holly](https://covers.openlibrary.org/b/ISBN/9781668034491-L.jpg)
+
+**Bewertung:** ★★★★★ (4,75 / 5)
+
+**Beendet:** 12.11.2026
+
+**Seiten:** 449
+
+**Buchreihe:** Holly Gibney #3
+
+### Klara und die Sonne — Kazuo Ishiguro
+
+![Cover von Klara und die Sonne](https://covers.openlibrary.org/b/ISBN/9783896676931-L.jpg)
+
+**Bewertung:** ★★★☆☆ (3,25 / 5)
+
+**Beendet:** 03.11.2026
+
+**Seiten:** 349
 
 ### Brief Answers To The Big Questions — Stephen Hawking
 
@@ -48,42 +82,6 @@ Hier sammle ich, was ich gerade lese, welche Bücher zuletzt auf meinem Stapel l
 **Seiten:** 192
 
 **Buchreihe:** Detektiv Conan #10
-
-### Das Dorf in den roten Wäldern — Louise Penny
-
-![Cover von Das Dorf in den roten Wäldern](https://covers.openlibrary.org/b/ISBN/9783311120063-L.jpg)
-
-**Bewertung:** ★★★☆☆ (3 / 5)
-
-**Beendet:** 28.09.2026
-
-**Seiten:** 395
-
-**Buchreihe:** Chief Inspector Armand Gamache #1
-
-### Detektiv Conan, Band 9 — Gosho Aoyama
-
-![Cover von Detektiv Conan, Band 9](https://covers.openlibrary.org/b/ISBN/9783898853903-L.jpg)
-
-**Bewertung:** ★★★★☆ (4,25 / 5)
-
-**Beendet:** 27.09.2026
-
-**Seiten:** 176
-
-**Buchreihe:** Detektiv Conan #9
-
-### Assassin's Quest — Robin Hobb
-
-![Cover von Assassin's Quest](https://covers.openlibrary.org/b/ISBN/9780006480112-L.jpg)
-
-**Bewertung:** ★★★★☆ (3,5 / 5)
-
-**Beendet:** 21.09.2026
-
-**Seiten:** 838
-
-**Buchreihe:** The Realm of the Elderlings #3
 
 
 ## Rezensionen

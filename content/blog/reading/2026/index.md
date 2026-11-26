@@ -93,8 +93,8 @@ Mein Lesejahr 2026 in Büchern und Zahlen.
 
 ## Mein Lesejahr in Zahlen
 
-- **Gelesene Bücher:** 43
-- **Gelesene Seiten:** 14.244
+- **Gelesene Bücher:** 46
+- **Gelesene Seiten:** 15.234
 - **Durchschnittliche Buchlänge:** 331 Seiten
 - **Durchschnittliche Bewertung:** 4,05 von 5
 - **Längstes Buch:** Assassin's Quest — 838 Seiten
@@ -113,7 +113,7 @@ Juli       ██████       6
 August     ████         4
 September  ████         4
 Oktober    ██           2
-November                0
+November   ███          3
 Dezember                0
 ```
 
@@ -130,7 +130,7 @@ Juli       ████████████████████ 2.207
 August     ██████████████████   1.937
 September  ███████████████      1.601
 Oktober    ████                 464
-November                        0
+November   █████████            990
 Dezember                        0
 ```
 
@@ -179,6 +179,9 @@ Dezember                        0
 41. Das Dorf in den roten Wäldern — Louise Penny — ★★★☆☆ (3 / 5)
 42. Detektiv Conan, Band 10 — Gosho Aoyama — ★★★★☆ (4,5 / 5)
 43. Brief Answers To The Big Questions — Stephen Hawking — ★★★☆☆ (3,25 / 5)
+44. Klara und die Sonne — Kazuo Ishiguro — ★★★☆☆ (3,25 / 5)
+45. Holly — Stephen King — ★★★★★ (4,75 / 5)
+46. Detektiv Conan, Band 11 — Gosho Aoyama — ★★★★☆ (4,25 / 5)
 
 [← Zurück zur Leseübersicht](/blog/reading/)
 
